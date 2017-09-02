@@ -1,0 +1,42 @@
+{
+  "name": "zarplata.ru_zadanie",
+  "version": "1.0.0",
+  "description": "Задание для zarplata.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisManokhin/zarplataru_zadanie.git"
+  },
+  "author": "Denis Manokhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisManokhin/zarplataru_zadanie/issues"
+  },
+  "homepage": "https://github.com/DenisManokhin/zarplataru_zadanie#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^3.3.7",
+    "css-loader": "^0.28.5",
+    "express": "^4.15.4",
+    "node-sass": "^4.5.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-thunk": "^2.2.0",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.5.5"
+  }
+}

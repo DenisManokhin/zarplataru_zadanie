@@ -1,0 +1,6 @@
+
+export const GET_VAC_COUNT = 'GET_VAC_COUNT';
+export const GET_VAC_TABLE = 'GET_VAC_TABLE';
+export const GET_WORDS_TABLE = 'GET_WORDS_TABLE';
+export const IS_FETCH_VAC_TABLE = 'IS_FETCH_VAC_TABLE';
+export const IS_FETCH_WORDS_TABLE = 'IS_FETCH_WORDS_TABLE';
